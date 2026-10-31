@@ -1,0 +1,101 @@
+Transaction ID,Date,Customer ID,Gender,Age,Product Category,Product,Quantity,Price per Unit,Total Amount,Payment Method,City
+1,2026-08-10,C0001,Male,26,Clothing,Jeans,2,1199,2398,UPI,Ahmedabad
+2,2026-05-05,C0002,Female,63,Clothing,T-Shirt,4,499,1996,Cash,Ahmedabad
+3,2026-03-08,C0003,Male,56,Clothing,Jeans,2,1199,2398,UPI,Junagadh
+4,2026-01-16,C0004,Male,65,Electronics,Mouse,2,699,1398,UPI,Vadodara
+5,2026-01-23,C0005,Male,47,Beauty,Shampoo,5,399,1995,Card,Vadodara
+6,2026-08-05,C0006,Female,62,Electronics,Mouse,3,699,2097,Cash,Ahmedabad
+7,2026-07-16,C0007,Female,56,Electronics,Headphones,2,1499,2998,Card,Surat
+8,2026-02-08,C0008,Male,52,Beauty,Face Wash,1,299,299,Card,Ahmedabad
+9,2026-04-22,C0009,Female,56,Beauty,Face Wash,4,299,1196,Cash,Vadodara
+10,2026-07-28,C0010,Male,44,Electronics,Mouse,1,699,699,Card,Junagadh
+11,2026-06-30,C0011,Male,61,Beauty,Shampoo,1,399,399,Cash,Ahmedabad
+12,2026-06-28,C0012,Female,40,Clothing,T-Shirt,3,499,1497,Card,Junagadh
+13,2026-01-23,C0013,Male,54,Grocery,Rice,1,550,550,Cash,Vadodara
+14,2026-09-01,C0014,Male,55,Beauty,Shampoo,5,399,1995,Cash,Vadodara
+15,2026-08-08,C0015,Male,36,Beauty,Face Wash,1,299,299,UPI,Surat
+16,2026-03-28,C0016,Male,22,Beauty,Shampoo,3,399,1197,Card,Ahmedabad
+17,2026-01-12,C0017,Female,49,Beauty,Face Wash,4,299,1196,UPI,Vadodara
+18,2026-02-21,C0018,Male,31,Grocery,Rice,1,550,550,UPI,Surat
+19,2026-03-16,C0019,Female,43,Electronics,Headphones,2,1499,2998,Card,Rajkot
+20,2026-02-03,C0020,Male,62,Beauty,Shampoo,5,399,1995,Cash,Ahmedabad
+21,2026-05-05,C0021,Female,22,Clothing,T-Shirt,4,499,1996,Cash,Rajkot
+22,2026-08-29,C0022,Male,60,Electronics,Mouse,4,699,2796,UPI,Surat
+23,2026-02-21,C0023,Male,19,Beauty,Face Wash,5,299,1495,Cash,Surat
+24,2026-03-10,C0024,Male,57,Beauty,Shampoo,2,399,798,Card,Vadodara
+25,2026-09-26,C0025,Male,21,Clothing,T-Shirt,2,499,998,UPI,Junagadh
+26,2026-04-16,C0026,Female,28,Beauty,Shampoo,4,399,1596,Cash,Ahmedabad
+27,2026-05-14,C0027,Female,30,Beauty,Face Wash,3,299,897,Card,Vadodara
+28,2026-09-10,C0028,Female,34,Grocery,Coffee,5,350,1750,UPI,Rajkot
+29,2026-05-15,C0029,Female,21,Grocery,Coffee,1,350,350,Cash,Vadodara
+30,2026-06-01,C0030,Male,32,Electronics,Headphones,2,1499,2998,Card,Rajkot
+31,2026-01-15,C0031,Female,31,Grocery,Rice,5,550,2750,UPI,Rajkot
+32,2026-09-21,C0032,Male,18,Beauty,Shampoo,1,399,399,Cash,Vadodara
+33,2026-07-14,C0033,Male,62,Beauty,Shampoo,2,399,798,Card,Rajkot
+34,2026-07-22,C0034,Female,59,Beauty,Shampoo,4,399,1596,Cash,Junagadh
+35,2026-05-14,C0035,Male,58,Electronics,Headphones,5,1499,7495,UPI,Ahmedabad
+36,2026-04-24,C0036,Female,27,Electronics,Mouse,4,699,2796,Card,Ahmedabad
+37,2026-04-23,C0037,Female,26,Electronics,Headphones,5,1499,7495,UPI,Ahmedabad
+38,2026-08-17,C0038,Female,37,Grocery,Coffee,1,350,350,Cash,Junagadh
+39,2026-04-16,C0039,Male,23,Grocery,Coffee,4,350,1400,UPI,Ahmedabad
+40,2026-04-10,C0040,Male,24,Clothing,Jeans,5,1199,5995,UPI,Surat
+41,2026-04-01,C0041,Female,54,Grocery,Coffee,1,350,350,UPI,Junagadh
+42,2026-04-11,C0042,Female,31,Grocery,Rice,5,550,2750,Card,Ahmedabad
+43,2026-07-23,C0043,Female,49,Clothing,T-Shirt,5,499,2495,Card,Ahmedabad
+44,2026-09-15,C0044,Male,37,Grocery,Coffee,5,350,1750,Cash,Vadodara
+45,2026-09-18,C0045,Female,54,Electronics,Mouse,4,699,2796,UPI,Vadodara
+46,2026-08-01,C0046,Male,65,Beauty,Face Wash,3,299,897,Cash,Rajkot
+47,2026-07-07,C0047,Male,55,Clothing,T-Shirt,3,499,1497,Cash,Vadodara
+48,2026-09-19,C0048,Female,44,Beauty,Face Wash,5,299,1495,Card,Ahmedabad
+49,2026-04-30,C0049,Female,49,Clothing,T-Shirt,1,499,499,Cash,Surat
+50,2026-07-21,C0050,Female,21,Beauty,Shampoo,4,399,1596,Card,Rajkot
+51,2026-05-31,C0051,Female,55,Grocery,Rice,5,550,2750,UPI,Vadodara
+52,2026-08-20,C0052,Female,28,Clothing,Jeans,1,1199,1199,Card,Surat
+53,2026-07-09,C0053,Male,40,Clothing,T-Shirt,2,499,998,Card,Junagadh
+54,2026-07-04,C0054,Female,39,Beauty,Shampoo,2,399,798,Card,Junagadh
+55,2026-05-28,C0055,Female,38,Grocery,Coffee,3,350,1050,UPI,Junagadh
+56,2026-05-21,C0056,Female,35,Electronics,Headphones,3,1499,4497,UPI,Junagadh
+57,2026-01-31,C0057,Female,43,Electronics,Mouse,3,699,2097,Card,Rajkot
+58,2026-04-19,C0058,Female,61,Clothing,T-Shirt,2,499,998,Cash,Ahmedabad
+59,2026-07-07,C0059,Male,30,Beauty,Shampoo,5,399,1995,UPI,Rajkot
+60,2026-05-11,C0060,Male,50,Beauty,Face Wash,4,299,1196,UPI,Junagadh
+61,2026-01-19,C0061,Female,30,Clothing,T-Shirt,5,499,2495,Cash,Vadodara
+62,2026-06-24,C0062,Male,41,Beauty,Face Wash,3,299,897,UPI,Junagadh
+63,2026-02-11,C0063,Male,60,Electronics,Headphones,1,1499,1499,UPI,Rajkot
+64,2026-09-19,C0064,Male,35,Beauty,Shampoo,4,399,1596,Cash,Vadodara
+65,2026-05-12,C0065,Female,41,Electronics,Headphones,1,1499,1499,UPI,Junagadh
+66,2026-06-21,C0066,Female,34,Electronics,Headphones,4,1499,5996,Card,Surat
+67,2026-09-13,C0067,Male,57,Electronics,Headphones,3,1499,4497,UPI,Ahmedabad
+68,2026-02-01,C0068,Male,63,Beauty,Shampoo,3,399,1197,Cash,Junagadh
+69,2026-01-31,C0069,Female,22,Clothing,Jeans,4,1199,4796,UPI,Surat
+70,2026-05-31,C0070,Female,24,Clothing,Jeans,4,1199,4796,UPI,Vadodara
+71,2026-01-12,C0071,Male,19,Clothing,T-Shirt,1,499,499,UPI,Surat
+72,2026-06-22,C0072,Female,19,Clothing,T-Shirt,5,499,2495,Cash,Vadodara
+73,2026-09-28,C0073,Female,61,Clothing,T-Shirt,1,499,499,Card,Junagadh
+74,2026-09-23,C0074,Male,53,Clothing,Jeans,2,1199,2398,UPI,Surat
+75,2026-03-04,C0075,Male,44,Beauty,Shampoo,5,399,1995,Card,Ahmedabad
+76,2026-06-27,C0076,Male,34,Beauty,Face Wash,4,299,1196,Card,Rajkot
+77,2026-05-25,C0077,Male,45,Beauty,Face Wash,4,299,1196,Card,Rajkot
+78,2026-01-29,C0078,Female,48,Beauty,Face Wash,3,299,897,UPI,Junagadh
+79,2026-04-20,C0079,Male,59,Electronics,Headphones,2,1499,2998,UPI,Junagadh
+80,2026-01-05,C0080,Male,26,Electronics,Mouse,2,699,1398,Cash,Vadodara
+81,2026-08-10,C0081,Male,26,Beauty,Shampoo,3,399,1197,Card,Vadodara
+82,2026-05-18,C0082,Female,57,Clothing,T-Shirt,5,499,2495,Cash,Surat
+83,2026-07-26,C0083,Male,39,Electronics,Mouse,5,699,3495,Cash,Surat
+84,2026-07-19,C0084,Female,64,Electronics,Mouse,2,699,1398,Card,Vadodara
+85,2026-07-24,C0085,Female,50,Electronics,Mouse,1,699,699,Cash,Ahmedabad
+86,2026-05-26,C0086,Male,52,Beauty,Face Wash,4,299,1196,Card,Ahmedabad
+87,2026-08-17,C0087,Female,32,Electronics,Mouse,1,699,699,UPI,Ahmedabad
+88,2026-04-05,C0088,Female,30,Beauty,Face Wash,5,299,1495,UPI,Rajkot
+89,2026-06-25,C0089,Female,35,Beauty,Face Wash,5,299,1495,Card,Junagadh
+90,2026-06-05,C0090,Female,32,Beauty,Shampoo,4,399,1596,UPI,Rajkot
+91,2026-02-17,C0091,Male,60,Grocery,Rice,2,550,1100,Card,Surat
+92,2026-09-02,C0092,Male,36,Grocery,Coffee,3,350,1050,Cash,Rajkot
+93,2026-01-14,C0093,Male,65,Beauty,Shampoo,2,399,798,Cash,Rajkot
+94,2026-01-30,C0094,Female,48,Grocery,Rice,4,550,2200,Card,Junagadh
+95,2026-04-21,C0095,Female,36,Electronics,Mouse,4,699,2796,UPI,Surat
+96,2026-03-08,C0096,Male,48,Clothing,T-Shirt,4,499,1996,Card,Ahmedabad
+97,2026-02-20,C0097,Male,26,Clothing,Jeans,2,1199,2398,Cash,Junagadh
+98,2026-09-06,C0098,Female,50,Grocery,Rice,5,550,2750,UPI,Surat
+99,2026-01-26,C0099,Male,28,Clothing,T-Shirt,3,499,1497,Card,Junagadh
+100,2026-08-22,C0100,Male,43,Beauty,Face Wash,5,299,1495,UPI,Surat
