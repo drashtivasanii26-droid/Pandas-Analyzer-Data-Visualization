@@ -1,4 +1,4 @@
-# 📊 Pandas Analyzer & Data Visualization
+# 📊 Pandas-Analyzer&Data-Visualization
 ### Python-Based Data Analysis and Visualization Project
 
 ---
@@ -7,7 +7,7 @@
 
 | Details | Information |
 |---|---|
-| **Project Name** | Pandas Analyzer & Data Visualization |
+| **Project Name** | Pandas-Analyzer&Data-Visualization |
 | **Author** | Drashti Vasani |
 | **Language** | Python 3 |
 | **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
@@ -174,7 +174,7 @@ pandas_analyzer.py
 **Step 4:** Run the following command:
 
 ```bash
-python pandas_analyzer.py
+python pandas-analyzer&Data-Visualization.py
 ```
 
 **Step 5:** Select the desired option from the main menu.
@@ -218,8 +218,6 @@ Example of a Sales Dataset:
 | Laptop | West | 45000 | 4 |
 | Mobile | North | 35000 | 12 |
 
-*Note: This is an example dataset for demonstration purposes.*
-
 ---
 
 ## 🖥️ 10. Sample Output
@@ -227,7 +225,7 @@ Example of a Sales Dataset:
 ### 1. Welcome Screen & Load Dataset
 
 ```text
-Welcome to Pandas Analyzer & Data Visualization!
+Welcome to Pandas-Analyzer&Data-Visualization!
 
 =======================================================
        PANDAS ANALYZER & DATA VISUALIZATION
@@ -486,9 +484,9 @@ Thank you for using Pandas Analyzer!
 ## 📁 11. Project Structure
 
 ```text
-Pandas Analyzer & Data Visualization/
+Pandas-Analyzer&Data-Visualization/
 │
-├── Pandas Analyzer & Data Visualization.py
+├── Pandas-Analyzer&Data-Visualization.py
 │
 ├── sales_data_analyzer.csv
 │
@@ -499,7 +497,7 @@ Pandas Analyzer & Data Visualization/
 
 **File Description:**
 
-- `Pandas Analyzer & Data Visualization.py` – Main Python application.
+- `Pandas-Analyzer&Data-Visualization.py` – Main Python application.
 - `sales.csv` – Input dataset.
 - `sales.png` – Saved visualization image.
 - `README.md` – Project documentation.
@@ -534,5 +532,5 @@ Through this project, I learned how to:
 ---
 ### ⭐ Thank You!
 
-Thank you for exploring my **Pandas Analyzer & Data Visualization** project.
+Thank you for exploring my **Pandas-Analyzer&Data-Visualization** project.
 
