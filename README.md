@@ -12,7 +12,7 @@
 | **Language** | Python 3 |
 | **Libraries** | Pandas, NumPy, Matplotlib, Seaborn |
 | **Editor** | Visual Studio Code |
-| **Project Type** | Python Practical Assignment |
+| **Project Type** | Python Practical Project|
 
 ---
 
